@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Chip
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 0999b1d01aeafb5e23bfa4f5b8c02aa3
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 0999b1d01aeafb5e23bfa4f5b8c02aa3
+    totalSpriteSurfaceArea: 65536
+    packables:
+    - {fileID: 102900000, guid: d9117b1074b754fb5bde2e67e0b60198, type: 3}
+    packedSpriteRenderDataKeys:
+    - c18077dde0cac4462944581febede7c5: 21300000
+    - c0fce73cb6f8242c0997d1c838759355: 21300000
+    - 5bb0ea204d59d435b8b33ea4577da079: 21300000
+    - 8035f8b882ad848a1a2110ee9de50b0c: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c18077dde0cac4462944581febede7c5, type: 3}
+  - {fileID: 21300000, guid: c0fce73cb6f8242c0997d1c838759355, type: 3}
+  - {fileID: 21300000, guid: 5bb0ea204d59d435b8b33ea4577da079, type: 3}
+  - {fileID: 21300000, guid: 8035f8b882ad848a1a2110ee9de50b0c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - chip_0
+  - chip_1
+  - chip_2
+  - chip_3
+  m_Tag: Chip
+  m_IsVariant: 0
